@@ -18,3 +18,4 @@ Experience the power of Dask as it enhances your team's productivity, fosters be
 - [Ryan Kwon](https://ryankwon.dev/cv.pdf), Tech Lead
 - [Hyunmyeong Joo](https://github.com/jureuk7), Frontend Engineer
 - [Junseo Kang](https://invalidid56.oopy.io), Backend Engineer
+- [Hyunwoo Cho](https://portfolio.bocchitherock.kr), UI/UX Designer
